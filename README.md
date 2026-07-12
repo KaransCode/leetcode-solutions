@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaransCode/leetcode-solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/KaransCode/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/KaransCode/leetcode-solutions/tree/master/0326-power-of-three) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
