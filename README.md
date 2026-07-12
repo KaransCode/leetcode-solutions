@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KaransCode/leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/KaransCode/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/KaransCode/leetcode-solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
