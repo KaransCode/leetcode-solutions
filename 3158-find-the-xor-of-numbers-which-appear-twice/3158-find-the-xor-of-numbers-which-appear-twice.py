@@ -6,7 +6,7 @@ class Solution:
             frequency[num] = frequency.get(num,0) + 1
         
         for key, value in frequency.items():
-            if value == 2:
+            if value > 1:
                 result ^= key
         return result
         
