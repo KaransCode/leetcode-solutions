@@ -1,5 +1,6 @@
 # from collections import defaultdict
-from collections import Counter
+# from collections import Counter
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         # frequency = {}
@@ -10,11 +11,11 @@ class Solution:
         #         return True
         # return False
 
-        frequency = Counter(nums)
-        for key, value in frequency.items():
-            if value > 1 :
-                return True
-        return False
+        # frequency = Counter(nums)
+        # for key, value in frequency.items():
+        #     if value > 1 :
+        #         return True
+        # return False
 
         # frequency = defaultdict(int)
         # for num in nums:
@@ -23,3 +24,6 @@ class Solution:
         #     if value > 1 :
         #         return True
         # return False
+
+        numberSet = set(nums)
+        return len(numberSet) < len(nums)
