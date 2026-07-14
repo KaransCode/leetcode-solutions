@@ -14,5 +14,3 @@ class Solution:
                 right -= 1
             pos -= 1
         return result
-
-        
