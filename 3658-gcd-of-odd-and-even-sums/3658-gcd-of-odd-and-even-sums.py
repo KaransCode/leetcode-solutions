@@ -10,5 +10,4 @@ class Solution:
         #     b = a % b
         #     a = temp_b
         # return a
-
         return n
