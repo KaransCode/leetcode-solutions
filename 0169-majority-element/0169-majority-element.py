@@ -17,9 +17,8 @@ class Solution:
                     count += 1
                 else:
                     count -= 1
-            for i in range(n):
-                if element == nums[i]:
-                    count2 +=1
-            if count2 > n//2:
-                return element
-            return -1
+            # for i in range(n):
+            #     if element == nums[i]:
+            #         count2 +=1
+            # if count2 > n//2:
+            return element
