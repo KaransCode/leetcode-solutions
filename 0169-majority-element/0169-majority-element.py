@@ -7,7 +7,7 @@ class Solution:
         # majority = max(countDict, key=countDict.get)
         # return majority if majority >= majority else -1
 
-            element = count = count2 = 0
+            element = count = 0
             n = len(nums)
             for i in range(n):
                 if count == 0:
@@ -17,8 +17,4 @@ class Solution:
                     count += 1
                 else:
                     count -= 1
-            # for i in range(n):
-            #     if element == nums[i]:
-            #         count2 +=1
-            # if count2 > n//2:
             return element
