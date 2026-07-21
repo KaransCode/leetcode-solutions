@@ -19,7 +19,6 @@ class Solution:
             else:
                 nums[blue],nums[white] = nums[white],nums[blue]
                 blue -= 1
-        return nums
 
         # 1st Approach
         # red = white = blue = 0
