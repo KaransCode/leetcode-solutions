@@ -1,5 +1,8 @@
 class Solution:
     def mostFrequentEven(self, nums: List[int]) -> int:
+        if not nums:
+            return -1
+
         freq = {}
         mostFrequent = -1
         max_frequency = -1
