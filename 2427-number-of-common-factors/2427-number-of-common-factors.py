@@ -21,6 +21,7 @@ class Solution:
 
 
         #  Using min. limit for loop 
+        
         # limit = min(a,b)
         # count = 0
         # for i in range(1, limit+1):
@@ -29,7 +30,7 @@ class Solution:
         # return count
 
         # Using Set and intersection
-        
+
         # factors_a = set()
         # factors_b = set()
         # factors_a.add(1); factors_a.add(a)
