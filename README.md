@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KaransCode/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/KaransCode/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/KaransCode/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KaransCode/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KaransCode/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaransCode/leetcode-solutions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/KaransCode/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KaransCode/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/KaransCode/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaransCode/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KaransCode/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KaransCode/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KaransCode/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KaransCode/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaransCode/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
