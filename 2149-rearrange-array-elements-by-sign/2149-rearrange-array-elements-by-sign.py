@@ -11,5 +11,4 @@ class Solution:
             else:
                 answer[(2*negative)+1] = num
                 negative += 1
-        nums = answer
-        return nums
+        return answer
