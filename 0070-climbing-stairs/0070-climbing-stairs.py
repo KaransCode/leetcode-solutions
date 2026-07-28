@@ -6,7 +6,7 @@ class Solution:
             return 1
         
         def helper(k):
-            if memo[k] != -1:
+            if memo[k] > 0:
                 return memo[k]
             memo[k] = helper(k-1) + helper(k-2)
             return memo[k]
