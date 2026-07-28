@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaransCode/leetcode-solutions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/KaransCode/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaransCode/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/KaransCode/leetcode-solutions/tree/master/2427-number-of-common-factors) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/KaransCode/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KaransCode/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaransCode/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
