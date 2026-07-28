@@ -1,5 +1,7 @@
 class Solution:
     def fib(self, n: int) -> int:
+
+# Recursion with Memoization
         memo = [-1] * (n+1)
         memo[0] = 0
         if n >= 1:
@@ -11,6 +13,8 @@ class Solution:
             memo[k] = helper(k-1) + helper(k-2)
             return memo[k]
         return helper(n)
+
+# Iterative Approach 
 
         # if n == 0:
         #     return 0
