@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KaransCode/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/KaransCode/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/KaransCode/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/KaransCode/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaransCode/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KaransCode/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KaransCode/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/KaransCode/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KaransCode/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/KaransCode/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/KaransCode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KaransCode/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
@@ -141,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KaransCode/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
