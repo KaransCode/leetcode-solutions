@@ -1,6 +1,8 @@
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
-        closest = max(nums)
+        if not nums:
+            return 
+        closest = float("inf")
         for num in nums:
             if abs(num) < abs(closest):
                 closest = num
@@ -9,4 +11,3 @@ class Solution:
                 if closest < num:
                     closest = num      
         return closest
-        
