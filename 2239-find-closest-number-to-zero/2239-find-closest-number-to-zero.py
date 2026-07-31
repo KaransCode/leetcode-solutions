@@ -7,7 +7,6 @@ class Solution:
             
             if abs(num) == abs(closest):
                 if closest < num:
-                    closest = num
-                
+                    closest = num      
         return closest
         
