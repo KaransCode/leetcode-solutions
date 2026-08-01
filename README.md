@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaransCode/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/KaransCode/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/KaransCode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2574-left-and-right-sum-differences](https://github.com/KaransCode/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/KaransCode/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -156,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KaransCode/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/KaransCode/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
