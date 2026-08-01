@@ -3,11 +3,10 @@ class Solution:
         m = len(word1); n = len(word2)
         i = j = 0; result = []
         
-        while i < m and j < n:
+        while i < m and i < n:
             result.append(word1[i])
             result.append(word2[i])
             i += 1
-            j += 1
         
         while i < m:
             result.append(word1[i])
