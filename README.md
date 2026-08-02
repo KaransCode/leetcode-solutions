@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KaransCode/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/KaransCode/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KaransCode/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/KaransCode/leetcode-solutions/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaransCode/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/KaransCode/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3516-find-closest-person](https://github.com/KaransCode/leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaransCode/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KaransCode/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KaransCode/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KaransCode/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KaransCode/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
