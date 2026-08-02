@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaransCode/leetcode-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/KaransCode/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0372-super-pow](https://github.com/KaransCode/leetcode-solutions/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/KaransCode/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -184,5 +185,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
