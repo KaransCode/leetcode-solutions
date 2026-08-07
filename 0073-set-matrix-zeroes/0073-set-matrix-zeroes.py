@@ -18,4 +18,3 @@ class Solution:
             for j in range(col):
                 if i in check_row or j in check_col:
                     matrix[i][j] = 0
-        
