@@ -6,7 +6,7 @@ class Solution:
         size = len(matrix)
         
         # Transpose of Matrix
-        for i in range(size):
+        for i in range(size-1):
             for j in range(i+1, size):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
         # Reverse the Rows
