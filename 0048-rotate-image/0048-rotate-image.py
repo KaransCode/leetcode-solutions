@@ -4,7 +4,6 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         size = len(matrix)
-        
         # Transpose of Matrix
         for i in range(size-1):
             for j in range(i+1, size):
