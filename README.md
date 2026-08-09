@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaransCode/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaransCode/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -222,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KaransCode/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/KaransCode/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaransCode/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
