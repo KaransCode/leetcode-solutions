@@ -1,4 +1,3 @@
-import numpy as np
 class Solution:
     def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
         totalElement = len(original); actualElement = m*n
@@ -9,4 +8,3 @@ class Solution:
         for row in range(totalElement):
             answer[row//n][row%n] = original[row]
         return answer
-        
