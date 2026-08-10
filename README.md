@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaransCode/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KaransCode/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/KaransCode/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaransCode/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/KaransCode/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/KaransCode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KaransCode/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KaransCode/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/KaransCode/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/KaransCode/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaransCode/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3925-concatenate-array-with-reverse](https://github.com/KaransCode/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Memoization
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KaransCode/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/KaransCode/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaransCode/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/KaransCode/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
