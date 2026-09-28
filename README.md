@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KaransCode/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KaransCode/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaransCode/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaransCode/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/KaransCode/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/KaransCode/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3838-weighted-word-mapping](https://github.com/KaransCode/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -285,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KaransCode/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaransCode/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaransCode/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
