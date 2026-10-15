@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KaransCode/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KaransCode/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/KaransCode/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/KaransCode/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KaransCode/leetcode-solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaransCode/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KaransCode/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KaransCode/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/KaransCode/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/KaransCode/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
