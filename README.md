@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KaransCode/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/KaransCode/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KaransCode/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/KaransCode/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/KaransCode/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/KaransCode/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/KaransCode/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
